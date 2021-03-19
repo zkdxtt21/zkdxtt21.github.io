@@ -1,6 +1,6 @@
 # Site settings
 title: Tingting's Blog
-SEOTitle: 婷婷的博客 | Donut Blog
+SEOTitle:  Tingting's Blog | 婷婷的博客
 header-img: img/post-bg-desk.jpg
 email: tingting.xuan.ustc@gmail.com
 description: "Every failure is leading towards success."
@@ -58,16 +58,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 7e684ac3c31ea4495955                           #生成的clientID
+  clientSecret: bc8e20046c1b9f87713f19b24788f8065979c359    #生成的clientSecret
+  repo: zkdxtt21.github.io    #仓库名称
+  owner: zkdxtt21    #github用户名
+  admin: zkdxtt21
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,8 +78,8 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-QR67F7BKBX'            # Format: UA-xxxxxx-xx
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
