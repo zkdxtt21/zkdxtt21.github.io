@@ -62,7 +62,7 @@ disqus_username: tingtingxuan
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 29a8200ccc10520d2aa9                          #生成的clientID
   clientSecret: b69ff83d26d03d8500af5e5bd1c5794d889897a9    #生成的clientSecret
   repo: zkdxtt21.github.io    #仓库名称
